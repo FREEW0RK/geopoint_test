@@ -1,0 +1,47 @@
+[
+  {
+      "id": "places-001",
+      "name": "University of Hawaii at Manoa (UHM)",
+      "description": "Outdoor Workplaces in front of Natural Science Building with shed and electricity",
+      "placeType": "public",
+      "imagePath": "assets/images/diamond.png",
+      "location": {
+        "latitude": 21.3,
+        "longitude": -157.81
+      },
+      "lastUpdate": "11/15/22",
+      "ownerID": "charing@hawaii.edu",
+      "editorIDs": ["charing@hawaii.edu"],
+      "visitorIDs": ["charing@hawaii.edu", "charing@hawaii.edu"]
+  },
+  {
+      "id": "places-002",
+      "name": "University of Hawaii at Manoa (UHM)",
+      "description": "Under Tree in front Campus Center",
+      "placeType": "community",
+      "imagePath": "assets/images/diamond.png",
+      "location": {
+        "latitude": 21.3,
+        "longitude": -157.81
+      },
+      "lastUpdate": "10/10/22",
+      "ownerID": "charing@hawaii.edu",
+      "editorIDs": ["charing@hawaii.edu"],
+      "visitorIDs": ["charing@hawaii.edu", "charing@hawaii.edu"]
+  },
+  {
+      "id": "places-003",
+      "name": "University of Hawaii at Manoa (UHM)",
+      "description": "In front of SOEST Building with shed",
+      "placeType": "public",
+      "imagePath": "assets/images/diamond.png",
+      "location": {
+        "latitude": 21.3,
+        "longitude": -157.81
+      },
+      "lastUpdate": "8/10/22",
+      "ownerID": "charing@hawaii.edu",
+      "editorIDs": ["charing@hawaii.edu"],
+      "visitorIDs": ["charing@hawaii.edu"]
+  }
+]
